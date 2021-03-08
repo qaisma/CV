@@ -4,7 +4,7 @@
 >- **Mobile**: *+49 177 87 86 195*
 >- **Email**: *iamqays@gmail.com*
 >- **Nationality**: *Jordanian*
->- **LinkedIn**: *https://ae.linkedin.com/in/qaisaburayyan*
+>- **LinkedIn**: [https://linkedin.com/in/qaisaburayyan](https://linkedin.com/in/qaisaburayyan)
 >- Bamberg – Germany
 
 * * *
