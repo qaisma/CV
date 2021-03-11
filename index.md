@@ -1,11 +1,11 @@
 # Qais AbuRayyan
 ![image](https://raw.githubusercontent.com/qaisma/CV/gh-pages/pps.jpg) 
 
->- **Mobile**: *+49 177 87 86 195*
->- **Email**: *iamqays@gmail.com*
->- **Nationality**: *Jordanian*
->- **LinkedIn**: [https://linkedin.com/in/qaisaburayyan](https://linkedin.com/in/qaisaburayyan)
->- Bamberg – Germany
+>- **Mobile**:telephone_receiver:: *+49 177 87 86 195*
+>- **Email**:e-mail:: *iamqays@gmail.com*
+>- **Nationality**:globe_with_meridians:: *Jordanian*
+>- **LinkedIn**:link:: [https://linkedin.com/in/qaisaburayyan](https://linkedin.com/in/qaisaburayyan)
+>- :round_pushpin:Bamberg – Germany
 
 * * *
 
