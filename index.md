@@ -14,7 +14,7 @@ Web Developer, Full Stack Developer, ASP .Net Developer
 Profile
 -------
 
-I am a hands-on ASP.Net and Web Front-End Developer since 2012. I have experience with application design, development, and customer support. I have developed Web, Enterprise, Windows Phone, and Facebook applications using current versions of Microsoft Visual Studio (.Net Frameworks: 3.5, 4.0, 4.5), TFS, SQL Server, SVN, Oracle 10g and other products.
+I am a hands-on ASP.Net and Web Front-End Developer since 2012. I have experience with application design, development, and customer support. I have developed Web, Enterprise, Windows Phone, and Facebook applications using current versions of Microsoft Visual Studio (Since .Net Frameworks 3.5), TFS, SQL Server, SVN, Oracle 10g and other products.
 
 Besides designing Database tables and relations and implementing engines through the multi-tier project structures, I build user interfaces using modern HTML, CSS, and JavaScript. Building state-of-the-art, easy to use, user-friendly web pages truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements.
 
