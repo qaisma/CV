@@ -1,15 +1,16 @@
 # Qais AbuRayyan
 ![image](https://raw.githubusercontent.com/qaisma/CV/gh-pages/small.jpg) 
->- **Mobile**:telephone_receiver:: *+49 177 87 86 195*
->- **Email**:e-mail:: *iamqays@gmail.com*
->- **Nationality**:globe_with_meridians:: *Jordanian*
->- **LinkedIn**:link:: [https://linkedin.com/in/qaisaburayyan](https://linkedin.com/in/qaisaburayyan)
->- :round_pushpin:Bamberg – Germany
+>- **Mobile**: *+49 177 87 86 195*
+>- **Email**: *iamqays@gmail.com*
+>- **Nationality**: *Jordanian*
+>- **LinkedIn**: [https://linkedin.com/in/qaisaburayyan](https://linkedin.com/in/qaisaburayyan)
+>- **Location**:Bamberg – Germany
 ### [Download PDF](https://github.com/qaisma/CV/blob/136f16f67f9532b040d8563ce0c318cb3283602c/Qais%20M.pdf)
 ============
 
 Web Developer, Full Stack Developer, ASP .Net Developer
 
+\#developer \#fullStack \#entweckler \#c\# \#.net \#dotnet
 
 Profile
 -------
