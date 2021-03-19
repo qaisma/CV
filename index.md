@@ -20,28 +20,28 @@ Besides designing Database tables and relations and implementing engines through
 
 Technologies
 ---------
--   ASP .Net (WebForms and MVC) Standard and .Net Core
--   C# / VB.Net
--   EntityFramework / LINQ
--   WebAPIs
--   Python
+>-   ASP .Net (WebForms and MVC) Standard and .Net Core
+>-   C# / VB.Net
+>-   EntityFramework / LINQ
+>-   WebAPIs
+>-   Python
 
--   JavaScript / jQuery
--   AngularJS
--   MooTools
--   D3 (Data Driven Documents)
--   Social integration APIs (Facebook, YouTube and Twitter)
--   ReactJS (Basic Knowledge)
+>-   JavaScript / jQuery
+>-   AngularJS
+>-   MooTools
+>-   D3 (Data Driven Documents)
+>-   Social integration APIs (Facebook, YouTube and Twitter)
+>-   ReactJS (Basic Knowledge)
 
--   MS SQL Server
--   Oracle 10g
--   PostgreSQL
--   Google Cloud Datastore
--   Google Firebase
+>-   MS SQL Server
+>-   Oracle 10g
+>-   PostgreSQL
+>-   Google Cloud Datastore
+>-   Google Firebase
 
--   HTML, HTML5, CSS / CSS3, SASS
--   Media Queries / Responsive Web Design
--   Bootstrap
+>-   HTML, HTML5, CSS / CSS3, SASS
+>-   Media Queries / Responsive Web Design
+>-   Bootstrap
 
 
 Experience
@@ -54,7 +54,7 @@ DAGOCAR Automotive Services GmbH
 ### Bamberg, Germany
 #### Mar 2019 – To date
 
-My role as Full-Stack Web Developer in a project for the Client is to analyze the user requirement and business workflow in order to implement the appropriate web services and forms to serve the system in an optimized flow.
+>My role as Full-Stack Web Developer in a project for the Client is to analyze the user requirement and business workflow in order to implement the appropriate web services and forms to serve the system in an optimized flow.
 
 
 Exceed IT Services
@@ -64,7 +64,7 @@ Exceed IT Services
 ### Dubai, United Arab Emirates
 #### Apr 2017 – Aug 2018
 
-My role as a .Net / Front-End Web Developer in a project for the Client is to analyze the user requirement and implement the appropriate web services and forms to serve the system in an optimized flow. The purpose of our smart system is to automate the client’s service into a mobile form using responsive layout and web services.
+>My role as a .Net / Front-End Web Developer in a project for the Client is to analyze the user requirement and implement the appropriate web services and forms to serve the system in an optimized flow. The purpose of our smart system is to automate the client’s service into a mobile form using responsive layout and web services.
 
 
 Stroika Software
@@ -74,7 +74,7 @@ Stroika Software
 ### Dubai, United Arab Emirates
 #### Jan 2015 – Apr 2017
 
-My role as a .Net / Front-End Web Developer in a project for the Client is to analyze the user requirement and implement the appropriate web services and forms to serve the system in an optimized flow. The purpose of our smart system is to automate the client’s service into a mobile form using responsive layout and web services.
+>My role as a .Net / Front-End Web Developer in a project for the Client is to analyze the user requirement and implement the appropriate web services and forms to serve the system in an optimized flow. The purpose of our smart system is to automate the client’s service into a mobile form using responsive layout and web services.
 
 
 Eskadenia Software
@@ -84,7 +84,7 @@ Eskadenia Software
 ### Amman, Jordan
 #### Oct 2013 - Jan 2015
 
-My main responsibilities were maintaining and expanding the existing development activities and developing software from documented requirements.
+>My main responsibilities were maintaining and expanding the existing development activities and developing software from documented requirements.
 
 
 SNSEO (Digital Agency)
@@ -94,7 +94,7 @@ SNSEO (Digital Agency)
 ### Amman, Jordan
 #### Apr 2012 - Oct 2013
 
-My main Responsibilities are: Building web applications using several technologies as the business requirements needs, such as web forms and MVC (using C#). During my work there I have learned and developed applications for Windows 8 and Windows Phone 8. Also, I had a chance to publish my code to live servers and become familiar with IIS, FTP, hosting and domains.
+>My main Responsibilities are: Building web applications using several technologies as the business requirements needs, such as web forms and MVC (using C#). During my work there I have learned and developed applications for Windows 8 and Windows Phone 8. Also, I had a chance to publish my code to live servers and become familiar with IIS, FTP, hosting and domains.
 
 
 Aspire Services
@@ -104,7 +104,7 @@ Aspire Services
 ### Amman, Jordan
 #### Feb 2012 - Apr 2012
 
-My main Responsibilities were doing several types of testing, writing scenarios and logging defects to assure that the product meets the client’s requirements.
+>My main Responsibilities were doing several types of testing, writing scenarios and logging defects to assure that the product meets the client’s requirements.
 
 
 Education
